@@ -13,6 +13,6 @@ I'm a recent graduate looking to enter the tech industry.
 A few more things about me:
 
 - 🌱 I’m currently learning ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/jasmineasraharper/"><img align=”left” src=”https://raw.githubusercontent.com/jasmine-asra/jasmine-asra/main/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/jasmineasraharper/"><img align="left" src="https://raw.githubusercontent.com/jasmine-asra/jasmine-asra/main/images/linkedin.png" alt="LinkedIn icon" width="21px"/></a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: When I'm not working I'm probably reading or watching anime!
