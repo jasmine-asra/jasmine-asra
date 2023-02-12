@@ -15,4 +15,5 @@ I'm a recent graduate looking to enter the tech industry.
 - 🌱 I’m currently learning Java
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: When I'm not working I'm probably reading or watching anime!
-- 📫 Contact me here: <a href="https://www.linkedin.com/in/jasmineasraharper/"><img align="left" src="https://github.com/jasmine-asra/jasmine-asra/blob/main/images/linkedin.png" alt="LinkedIn icon" width="21px"/></a>
+
+📫 Contact me here: <a href="https://www.linkedin.com/in/jasmineasraharper/"><img align="left" src="https://github.com/jasmine-asra/jasmine-asra/blob/main/images/linkedin.png" alt="LinkedIn icon" width="21px"/></a>
