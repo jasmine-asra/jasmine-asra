@@ -10,9 +10,11 @@ I'm a recent graduate looking to enter the tech industry.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
-A few more things about me:
+### 📫 Contact Me
+<a href="https://www.linkedin.com/in/jasmineasraharper/"><img align="left" src="https://github.com/jasmine-asra/jasmine-asra/blob/main/images/linkedin.png" alt="LinkedIn icon" width="21px"/></a>
+
+### A few more things about me:
 
 - 🌱 I’m currently learning ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-- 📫 Contact me on <a href="https://www.linkedin.com/in/jasmineasraharper/"><img align="left" src="https://github.com/jasmine-asra/jasmine-asra/blob/main/images/linkedin.png" alt="LinkedIn icon" width="21px"/></a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: When I'm not working I'm probably reading or watching anime!
