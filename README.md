@@ -1,6 +1,6 @@
 ### Hi, I'm Jasmine! 👋
 
-I'm a recent graduate looking to enter the tech industry.
+I'm a software developer apprentice.
 
 ### :hammer_and_wrench: Languages and Tools :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
