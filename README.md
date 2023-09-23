@@ -12,7 +12,7 @@ I'm a software developer apprentice.
 
 ### A few more things about me:
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning NLP
 - 📫 Contact me here: <a href="https://www.linkedin.com/in/jasmineasraharper/"><img src="https://github.com/jasmine-asra/jasmine-asra/blob/main/images/linkedin.png" alt="LinkedIn icon" vertical-align="middle" width="21px"/></a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: When I'm not working I'm probably reading or watching anime!
