@@ -1,6 +1,6 @@
 ### Hi, I'm Jasmine! 👋
 
-I'm a software developer apprentice.
+I'm a software developer.
 
 ### :hammer_and_wrench: Languages and Tools :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
